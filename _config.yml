@@ -1,5 +1,5 @@
 # Site settings
-title: SENSE 1.0
+title: "SENSE 1.0"
 description: "SENSE is an external cheat for Counter-Strike: Global Offensive. At the moment this cheat features 'Glow ESP', 'Skinchanger', 'Chams', 'FOVchanger', 'Bunnyhop' and 'Triggerbot'"
 
 # Color settings (hex-codes without the leading hash-tag)
@@ -8,7 +8,7 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: Your Website
+footer: SENSE
 
 
 # Build settings
